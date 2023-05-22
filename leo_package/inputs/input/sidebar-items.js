@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":["INPUT_FILE_EXTENSION"],"struct":["InputFile"]};

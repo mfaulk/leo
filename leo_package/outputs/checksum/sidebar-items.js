@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":["CHECKSUM_FILE_EXTENSION"],"struct":["ChecksumFile"]};

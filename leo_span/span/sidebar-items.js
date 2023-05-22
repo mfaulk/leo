@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["impl_pos"],"struct":["BytePos","CharPos","Span"],"trait":["Pos"]};

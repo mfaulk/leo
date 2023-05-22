@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["integer_type","mapping","tuple","type_"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["rename_expression","rename_program","rename_statement","static_single_assigner"]};

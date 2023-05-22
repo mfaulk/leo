@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeclarationType"],"mod":["declaration_type"],"struct":["DefinitionStatement"]};

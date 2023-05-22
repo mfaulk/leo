@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Buffer","BufferEmitter","Handler","HandlerInner","StderrEmitter"],"trait":["Emitter"],"type":["ErrBuffer","WarningBuffer"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":["ExpressionConsumer","FunctionConsumer","ImportConsumer","MappingConsumer","ProgramConsumer","ProgramScopeConsumer","StatementConsumer","StructConsumer"]};
